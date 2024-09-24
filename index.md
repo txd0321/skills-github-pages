@@ -2,9 +2,8 @@
 Hello: Welcome to my blog
 ---
 
-#INTRO
-
+# INTRO
 slhfiuoqhfrnov
 
-##Part 1
+## Part 1
 
